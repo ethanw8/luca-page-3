@@ -1,0 +1,212 @@
+/*https://github.com/ethanw8?tab=repositories*/ /*Git commit was taking too long, which means that I have set up a link for the github repository*/
+
+
+html {
+    font-family: sans-serif;
+    -ms-text-size-adjust: 100%; /*Reference here was luca.restaurant*/
+    -webkit-text-size-adjust: 100%; /*Reference here was luca.restaurant*/
+}
+
+body {
+    color: #000;
+    font: 100%/1 Filosofia,Georgia,serif;
+    -webkit-font-smoothing: antialiased; /*Reference here was luca.restaurant*/
+    -moz-osx-font-smoothing: grayscale; /*Reference here was luca.restaurant*/
+    font-variant-numeric: oldstyle-nums; /*Reference here was luca.restaurant*/
+    margin: 0;
+}
+
+*, :after, :before {
+    -webkit-box-sizing: border-box; /*Reference here was luca.restaurant*/
+    box-sizing: border-box;
+}
+
+
+p {
+    overflow-wrap: break-word;
+}
+
+button, input, optgroup, select, textarea {
+    color: inherit;
+    font: inherit;
+    margin: 0;
+}
+
+p {
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}
+
+input {
+    line-height: normal;
+}
+
+
+
+img{
+    border: 0;
+}
+
+.footer {
+    z-index: 1;
+    width: 100%;
+    text-align: center;
+}
+
+.footer{
+    display: block;
+}
+
+form {
+    display: block;
+    margin-top: 0em;
+
+}
+
+.footer {
+    z-index: 1;
+    width: 100%;
+    text-align: center;
+}
+
+.footer--stuck .inner-footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    z-index: 1;
+}
+
+.inner-footer {
+    padding: 4.5rem 1.5rem 1.5rem;
+}
+
+.inner-footer {
+    background: #e9e3a4;
+    padding: 4.5rem-2.5rem-2.55rem;
+}
+
+
+.ccg-footer-logo {
+    width: 100%;
+    max-width: 18em;
+    margin: 0 auto;
+    
+}
+
+.ccg-footer-logo img {
+    display: block;
+    width: 100%;
+    height: auto;
+}
+
+.newsletter-text, .newsletter-form__text {
+    max-width: 31.25rem;
+    margin: 0 auto;
+    line-height: 1.5333333333;
+    font-size: 1.125em;
+}
+
+.newsletter-boxes {
+    margin: 1rem auto 0;
+    max-width: 17.25rem;
+}
+
+.form-input {
+    width: 100%;
+    line-height: 1;
+    background: 0 0;
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
+    color: #000;
+    margin-bottom: 0.625rem;
+    border-radius: 0
+}
+
+.form-input, .submit {
+    letter-spacing: .2em;
+    text-transform: uppercase;
+    padding: 1em 0.75em 0.75em;
+    border: 1px solid;
+}
+
+.form-input:last-of-type {
+    margin-bottom: 0;
+}
+
+
+element.position {
+    position: absolute;
+    left: -5000px
+}
+
+.submit .icon {
+    width: 0.75em;
+    height: 0.75em;
+    margin-right: 0.75em;
+}
+
+svg:not(:root) {
+    overflow: hidden;
+}
+
+
+button, input, optgroup, select, textarea {
+    color: inherit;
+    font: inherit;
+    margin: 0;
+}
+
+button {
+    overflow: visible;
+}
+
+button, select {
+    text-transform: none;
+}
+
+button, html input[type=button], input[type=reset], input[type=submit] {
+    -webkit-appearance: button; /*Reference here was luca.restaurant*/
+    cursor: pointer;
+}
+
+
+button {
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
+    border: 0;
+    background: 0 0;
+}
+
+
+.form-input, .submit {
+    letter-spacing: .2em;
+    text-transform: uppercase;
+    padding: 1em 0.75em 0.75em;
+    border: 1px solid;
+}
+
+.submit {
+    display: -webkit-inline-box; /*Reference here was luca.restaurant*/
+    display: -ms-inline-flexbox; /*Reference here was luca.restaurant*/
+    display: inline-flex;
+    border-radius: 1em;
+    margin-top: 2.25rem;
+    -webkit-transition: background-color 250ms; /*Reference here was luca.restaurant*/
+    -o-transition: background-color 250ms; /*Reference here was luca.restaurant*/
+    transition: background-color 250ms; /*Reference here was luca.restaurant*/
+}
+
+a{
+    text-decoration: none;
+    color: inherit;
+
+}
+
+
+
+
